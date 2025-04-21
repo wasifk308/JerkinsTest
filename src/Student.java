@@ -1,3 +1,4 @@
+package src;
 public class Student {
     private String name; // instance variable
     private int age; // instance variable
