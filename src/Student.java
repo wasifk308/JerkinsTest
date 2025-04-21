@@ -11,7 +11,7 @@ public class Student {
 
     // Method to display student information
     public void displayInfo() {
-        System.out.println("Name: " + name);
+        System.out.println("Name:,, " + name);
         System.out.println("Age: " + age);
     }
 
