@@ -9,5 +9,11 @@ public class helo
             
             System.out.println(new Date());        
 
+            Student student1 = new Student("Alice", 20);
+             student1.displayInfo();
+        
+             Student student2 = new Student("Bob", 22);
+             student2.displayInfo();
+
         }
 }   
